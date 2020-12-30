@@ -1,0 +1,82 @@
+{
+    "devices": [
+        {
+            "vid": 1356,
+            "pid": 2508,
+            "stickOrigins": {
+                "slx": 132,
+                "sly": 127,
+                "srx": 127,
+                "sry": 120
+            },
+            "triggerOrigins": {
+
+            },
+            "dataPins": [
+                7,
+                8,
+                3,
+                4,
+                5,
+                6,
+                10,
+                11
+            ],
+            "enabled": true
+        },
+        {
+            "vid": 1356,
+            "pid": 1476,
+            "stickOrigins": {
+                "slx": 132,
+                "sly": 127,
+                "srx": 127,
+                "sry": 120
+            },
+            "triggerOrigins": {
+        
+            },
+            "dataPins": [
+                5,
+                6,
+                1,
+                2,
+                3,
+                4,
+                8,
+                9
+            ],
+            "enabled": true
+        }
+    ],
+    "stickDeadZone": 20,
+    "triggerDeadZone": 10,
+    "triangle": 1,
+    "circle": 0,
+    "cross": 1,
+    "square": 1,
+    "start": 0,
+    "select": 0,
+    "dpad": {
+        "up": 1,
+        "down": 1,
+        "left": 1,
+        "right": 1
+    },
+    "leftStick": {
+        "button": 0,
+        "x": 0,
+        "y": 0
+    },
+    "rightStick": {
+        "button": 0,
+        "x": 0,
+        "y": 0
+    },
+    "bumper": {
+        "left": 0,
+        "right": 0
+    },
+    "leftTrigger": 1,
+    "rightTrigger": 1
+}
